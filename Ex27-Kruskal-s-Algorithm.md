@@ -122,7 +122,7 @@ printf("%d%d%d\n",spanlist.data[i].u,spanlist.data[i].v,spanlist.data[i].w); cos
 printf("Costofthespanning tree=%d\n",cost);
 }
 
-
+```
 
 
 ## Output:
