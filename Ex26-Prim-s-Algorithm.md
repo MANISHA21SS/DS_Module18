@@ -103,7 +103,7 @@ min_cost=min_cost+cost[u][v];
 }
 return(min_cost);
 }
-
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/9fd8f390-4fb9-492a-92aa-62b82cf253a0)
